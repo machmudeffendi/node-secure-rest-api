@@ -12,7 +12,7 @@ In a root folder use this command :
 node server.js
 ```
 
-Nodemon run dev server :
+Nodemon run localy :
 ```
 npm run devserver
 ```
